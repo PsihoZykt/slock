@@ -2,6 +2,7 @@
 static const char *user  = "nobody";
 static const char *group = "nobody";
 
+
 static const char *colorname[NUMCOLS] = {
 	[INIT] =   "#000000",   /* after initialization */
 	[INPUT] =  "#282c34",   /* during input */
